@@ -10,7 +10,8 @@
 
 ###
 
-📚 [The effects of climate change on aboveground biomass accumulation](https://github.com/PalEON-Project/RW-2-BIO)
+🌳[The effects of climate change on aboveground biomass accumulation](https://github.com/PalEON-Project/RW-2-BIO)
+☀️[Quantifying Holocene albedo change from fossil pollen data](https://github.com/rubyceleste/Albedo-Pollen_Research)
 
 ###
 
