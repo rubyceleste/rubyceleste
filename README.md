@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 [The effects of climate change on aboveground biomass accumulation] (https://github.com/PalEON-Project/RW-2-BIO)</p>
+📚 [The effects of climate change on aboveground biomass accumulation] (https://github.com/PalEON-Project/RW-2-BIO)</p>
 
 ###
 
