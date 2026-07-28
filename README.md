@@ -2,7 +2,11 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Ruby, I am a Data Scientist  with a background in ecology. I am committed to environmental conservation and contributing actionable insights to climate change mitigation. My current research leverages R programming to unravel ecological data to study to the effects of climate change on aboveground biomass accumulation. <br>I have over 5 years of experience using R to create various ecological models.</p>
+<p data-importer="text" align="left">My name is Ruby, I am a Data Scientist  with a background in ecology. I am committed to environmental conservation and contributing actionable insights to climate change mitigation. My current research leverages R programming to unravel ecological data to study to the effects of climate change on aboveground biomass accumulation. <br>I have over 5 years of experience using R to create various ecological models.
+
+Check out my portfolio [here!](https://github.com/rubyceleste/Portfolio)
+
+</p>
 
 ###
 
