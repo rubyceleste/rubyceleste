@@ -1,16 +1,27 @@
-## Introducing Myself
+<h1 data-importer="text" align="left">Introducing Myself</h1>
 
-<!--
-**rubyceleste/rubyceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p data-importer="text" align="left">My name is Ruby, I am a Data Scientist  with a background in ecology. I am committed to environmental conservation and contributing actionable insights to climate change mitigation. My current research leverages R programming to unravel ecological data to study to the effects of climate change on aboveground biomass accumulation. <br>I have over 5 years of experience using R to create various ecological models.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 data-importer="text" align="left">Projects</h2>
+
+###
+
+<p data-importer="text" align="left">📚 [The effects of climate change on aboveground biomass accumulation] (https://github.com/PalEON-Project/RW-2-BIO)</p>
+
+###
+
+<h2 data-importer="text" align="left">I code with</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
