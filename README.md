@@ -1,4 +1,4 @@
-## Hi there 👋
+## Introducing Myself
 
 <!--
 **rubyceleste/rubyceleste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
